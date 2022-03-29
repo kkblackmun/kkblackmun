@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kkblackmun
+- 👀 I’m interested in learning more about programming and software engineering.
+- 🌱 I’m currently learning python, but I'd like to pick up Java or JavaScript as well.
+- 💞️ I’m looking to collaborate on ongoing projects or just receive some feedback from more experienced programmers.
+- 📫 How to reach me kkblackmun@ucdavis.edu
